@@ -1,72 +1,58 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Leaderboard
 
-> Description the project.
+> In this project i made a functional scheleton for the leaderboard project
 
+![screenshot](./app_screenshot.png)
+
+With  this project you can track all your scores
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Html, css & JS
+- Webpack
+- Github
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://lisandroseia.github.io/Leaderboard/)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+WebPack package installing
 
 ### Setup
+Run https://github.com/lisandroseia/to-do-list.git to clon the repository
 
 ### Install
+run **npm install**
+run **npm run build**
 
 ### Usage
-
-### Run tests
-
-### Deployment
-
-
+Run the comand **npm run start** to get a working environment with the project I made
 
 ## Authors
 
-👤 **Author1**
+👤 **Lisandro Seia**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@lisandroseia](https://github.com/lisandroseia)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/lisandro-seia-295120225/)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/lisandroseia/Leaderboard/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
