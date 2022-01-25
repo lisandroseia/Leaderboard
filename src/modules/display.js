@@ -4,7 +4,7 @@ const board = document.querySelector('.board');
 const name = document.getElementById('name');
 const score = document.getElementById('score');
 
-export default function display() {
+const display = () => {
   if (name.value === '' || score.value === '') {
     return;
   }
@@ -13,4 +13,6 @@ export default function display() {
     name.value = '';
     score.value = '';
   }
-}
+};
+
+export default display;
