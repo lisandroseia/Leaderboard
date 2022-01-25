@@ -1,6 +1,6 @@
-import './style.css'
-import display from './modules/display.js'
+import './style.css';
+import display from './modules/display.js';
 
-const submitBtn = document.getElementById('submit-btn')
+const submitBtn = document.getElementById('submit-btn');
 
 submitBtn.addEventListener('click', display);
