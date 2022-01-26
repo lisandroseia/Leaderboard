@@ -2,7 +2,7 @@
 
 # Leaderboard
 
-> In this project i made a functional scheleton for the leaderboard project
+> In this project i made a functional leaderboard webpage, that works by adding and removing scores from an api
 
 ![screenshot](./app_screenshot.png)
 
@@ -13,6 +13,7 @@ With  this project you can track all your scores
 - Html, css & JS
 - Webpack
 - Github
+- Leaderboard API service
 
 ## Live Demo
 
