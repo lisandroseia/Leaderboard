@@ -6,7 +6,7 @@
   color: rgb(151, 147, 147);
 }
 
-body{
+body {
   background: url(../assets/bg3.png) no-repeat center top;
   background-size: 100% 45%;
 }
@@ -37,15 +37,15 @@ form {
   font-weight: bold;
 }
 
-.text-input::placeholder{
+.text-input::placeholder {
   font-weight: bold;
 }
 
-.text-input:focus{
+.text-input:focus {
   outline: none;
-  box-shadow: 2px 1px 17px 5px rgba(87,31,115,0.75);
-  -webkit-box-shadow: 2px 1px 17px 5px rgba(87,31,115,0.75);
-  -moz-box-shadow: 2px 1px 17px 5px rgba(87,31,115,0.75);
+  box-shadow: 2px 1px 17px 5px rgba(87, 31, 115, 0.75);
+  -webkit-box-shadow: 2px 1px 17px 5px rgba(87, 31, 115, 0.75);
+  -moz-box-shadow: 2px 1px 17px 5px rgba(87, 31, 115, 0.75);
 }
 
 .board {
@@ -54,12 +54,13 @@ form {
   width: 100%;
   min-height: 80vh;
   max-height: 81vh;
-  background:  url(../assets/bg3.png) no-repeat center top;
+  background: url(../assets/bg3.png) no-repeat center top;
   background-size: 100% 28%;
+
   /* padding: 5px 0 0 5px; */
 }
 
-.player{
+.player {
   color: rgb(226, 223, 223);
   border-radius: 10px;
   font-weight: bold;
@@ -81,9 +82,7 @@ form {
   margin: 5px 20px;
 }
 
-
-
-button{
+button {
   width: 120px;
   height: 40px;
   border: 5px solid rgb(98 42 96);
@@ -92,14 +91,14 @@ button{
   font-size: 15px;
 }
 
-button:hover{
+button:hover {
   color: #000;
   cursor: pointer;
-  box-shadow: 2px 1px 17px 5px rgba(87,31,115,0.75);
-  -webkit-box-shadow: 2px 1px 17px 5px rgba(87,31,115,0.75);
-  -moz-box-shadow: 2px 1px 17px 5px rgba(87,31,115,0.75);
+  box-shadow: 2px 1px 17px 5px rgba(87, 31, 115, 0.75);
+  -webkit-box-shadow: 2px 1px 17px 5px rgba(87, 31, 115, 0.75);
+  -moz-box-shadow: 2px 1px 17px 5px rgba(87, 31, 115, 0.75);
 }
 
-button:active{
+button:active {
   background-color: rgba(100, 5, 87, 0.466);
 }
