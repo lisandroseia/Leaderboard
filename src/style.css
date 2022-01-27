@@ -23,9 +23,6 @@ main {
   justify-content: space-evenly;
 }
 
-/* section{
-} */
-
 form {
   display: flex;
   flex-direction: column;
@@ -63,8 +60,13 @@ form {
 }
 
 .player{
-  color: #000;
+  color: rgb(226, 223, 223);
+  border-radius: 10px;
   font-weight: bold;
+  background-color: rgba(101, 5, 146, 0.452);
+  padding: 5px;
+  margin: 5px;
+  max-lines: 20;
 }
 
 .board-head {
