@@ -91,6 +91,7 @@ button{
 }
 
 button:hover{
+  color: #000;
   cursor: pointer;
   box-shadow: 2px 1px 17px 5px rgba(87,31,115,0.75);
   -webkit-box-shadow: 2px 1px 17px 5px rgba(87,31,115,0.75);
